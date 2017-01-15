@@ -1,4 +1,4 @@
-#!/usr/bin/env python26
+#!/usr/bin/env python
 
 """ ctypes-based interface to the Genders library """
 
