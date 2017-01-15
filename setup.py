@@ -6,13 +6,13 @@
 from setuptools import setup
 
 setup(name='genders',
-      version='',
+      version='0.5.0',
       description='Python module for working with libgenders',
-      author='wcooly',
-      author_email='',
+      author='Wil Cooley',
+      author_email='wcooley@nakedape.cc',
       url='https://github.com/wcooley/genders-python',
       py_modules=['genders'],
-      license='',
+      license='GPL2',
       install_requires=[''],
       platforms=['Linux'],
       classifiers=['Programming Language :: Python',
